@@ -1,0 +1,2 @@
+All:
+	g++ main.cc -o transforms -Wall -W -s functions.cc polyread.cc 

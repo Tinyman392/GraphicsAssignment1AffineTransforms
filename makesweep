@@ -1,0 +1,2 @@
+All:
+	g++ sweep.cc -o sweep -Wall -W -s functions.cc polyread.cc 

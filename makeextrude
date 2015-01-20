@@ -1,0 +1,2 @@
+All:
+	g++ extrude.cc -o extrude -Wall -W -s functions.cc polyread.cc 

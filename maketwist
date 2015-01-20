@@ -1,0 +1,2 @@
+All:
+	g++ twist.cc -o twist -Wall -W -s functions.cc polyread.cc 

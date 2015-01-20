@@ -1,0 +1,2 @@
+All:
+	g++ skew.cc -o skew -Wall -W -s functions.cc polyread.cc 
